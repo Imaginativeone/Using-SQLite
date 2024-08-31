@@ -1,3 +1,17 @@
 Chapter 01 - What is SQLite?
 Chapter 02 - Uses of SQLite
 Chapter 03 - Building and Installing SQLite
+Chapter 04 - The SQL Language
+Chapter 05 - The Select Command
+Chapter 06 - Database Design
+Chapter 07 - C Programming Interface
+Chapter 08 - Additional Features and APIs
+Chapter 09 - SQL Functions and Extensions
+Chapter 10 - Virtual Tables and Modules
+Appendix A - SQLite Build Options
+Appendix B - sqlite3 Command Reference
+Appendix C - SQLite SQL Command Reference
+Appendix D - SQLite SQL Expression Reference
+Appendix E - SQLite SQL Function Reference
+Appendix F - SQLite SQL Pragma Reference
+Appendix G - SQLite C API Reference
