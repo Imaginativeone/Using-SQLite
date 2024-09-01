@@ -80,6 +80,14 @@ Chapter 10 - Virtual Tables and Modules
 - Simple Example: dblist Module
 - Advanced Example: weblog Module
 Appendix A - SQLite Build Options
+- Shell Directives
+- Default Values
+- Sizes and Limits
+- Operation and Behavior
+- Debug Settings
+- Enable Extensions
+- Limit Features
+- Omit Core Features
 Appendix B - sqlite3 Command Reference
 Appendix C - SQLite SQL Command Reference
 Appendix D - SQLite SQL Expression Reference
