@@ -92,6 +92,7 @@ Appendix B - sqlite3 Command Reference
 - Command-Line Options
 - Interactive Dot-Commands
 Appendix C - SQLite SQL Command Reference
+- SQLite SQL Commands
 Appendix D - SQLite SQL Expression Reference
 Appendix E - SQLite SQL Function Reference
 Appendix F - SQLite SQL Pragma Reference
