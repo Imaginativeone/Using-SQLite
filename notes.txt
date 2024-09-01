@@ -102,5 +102,7 @@ Appendix D - SQLite SQL Expression Reference
 - Column Names
 - General Expressions
 Appendix E - SQLite SQL Function Reference
+- Scalar Functions
+- Aggregate Functions
 Appendix F - SQLite SQL Pragma Reference
 Appendix G - SQLite C API Reference
