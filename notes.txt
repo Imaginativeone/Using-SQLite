@@ -71,6 +71,9 @@ Chapter 08 - Additional Features and APIs
 - Mobile and Embedded Development
 - Additional Extensions
 Chapter 09 - SQL Functions and Extensions
+- Aggregate Functions
+- Collation Functions
+- SQLite Extensions
 Chapter 10 - Virtual Tables and Modules
 Appendix A - SQLite Build Options
 Appendix B - sqlite3 Command Reference
