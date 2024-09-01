@@ -38,6 +38,11 @@ Chapter 04 - The SQL Language
 - System Catalogs
 - Wrap-Up
 Chapter 05 - The Select Command
+- SQL Tables
+- The SELECT Pipeline
+- Advanced Techniques
+- SELECT Examples
+- What's Next
 Chapter 06 - Database Design
 Chapter 07 - C Programming Interface
 Chapter 08 - Additional Features and APIs
