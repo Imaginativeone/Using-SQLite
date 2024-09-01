@@ -5,6 +5,9 @@ Chapter 01 - What is SQLite?
 - Sub Single File Database
 - Sub Zero Configuration
 - Sub Embedded Device Support
+- Sub Unique Features
+- Compatible License
+- Highly Reliable
 Chapter 02 - Uses of SQLite
 Chapter 03 - Building and Installing SQLite
 Chapter 04 - The SQL Language
