@@ -28,6 +28,15 @@ Chapter 03 - Building and Installing SQLite
 - A sqlite3 Primer
 - Summary
 Chapter 04 - The SQL Language
+- Learning SQL
+- Brief Background
+- General Syntax
+- SQL Data Languages
+- Data Definition Language
+- Data Manipulation Language
+- Transaction Control Language
+- System Catalogs
+- Wrap-Up
 Chapter 05 - The Select Command
 Chapter 06 - Database Design
 Chapter 07 - C Programming Interface
