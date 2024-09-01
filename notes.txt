@@ -44,6 +44,12 @@ Chapter 05 - The Select Command
 - SELECT Examples
 - What's Next
 Chapter 06 - Database Design
+- Tables and Keys
+- Common Structures and Relationships
+- Normal Form
+- Indexes
+- Transferring Design Experience
+- Closing
 Chapter 07 - C Programming Interface
 Chapter 08 - Additional Features and APIs
 Chapter 09 - SQL Functions and Extensions
