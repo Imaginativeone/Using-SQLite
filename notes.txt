@@ -75,6 +75,10 @@ Chapter 09 - SQL Functions and Extensions
 - Collation Functions
 - SQLite Extensions
 Chapter 10 - Virtual Tables and Modules
+- Introduction to Modules
+- Module API
+- Simple Example: dblist Module
+- Advanced Example: weblog Module
 Appendix A - SQLite Build Options
 Appendix B - sqlite3 Command Reference
 Appendix C - SQLite SQL Command Reference
