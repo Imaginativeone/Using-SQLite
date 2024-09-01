@@ -61,6 +61,15 @@ Chapter 07 - C Programming Interface
 - Utility Functions
 - Summary
 Chapter 08 - Additional Features and APIs
+- Date and Time Features
+  - Application Requirements
+  - Representations
+- ICU Internationalization Extension
+- Full-Text Search Module
+- R*Trees and Spatial Indexing Module
+- Scripting Languages and Other Interfaces
+- Mobile and Embedded Development
+- Additional Extensions
 Chapter 09 - SQL Functions and Extensions
 Chapter 10 - Virtual Tables and Modules
 Appendix A - SQLite Build Options
