@@ -94,6 +94,13 @@ Appendix B - sqlite3 Command Reference
 Appendix C - SQLite SQL Command Reference
 - SQLite SQL Commands
 Appendix D - SQLite SQL Expression Reference
+- Literal Expressions
+- Logic Representations
+- Unary Expressions
+- Binary Expressions
+- Function Calls
+- Column Names
+- General Expressions
 Appendix E - SQLite SQL Function Reference
 Appendix F - SQLite SQL Pragma Reference
 Appendix G - SQLite C API Reference
