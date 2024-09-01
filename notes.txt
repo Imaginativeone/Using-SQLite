@@ -19,6 +19,14 @@ Chapter 02 - Uses of SQLite
 - Not the Best Choice
 - Big Name Users
 Chapter 03 - Building and Installing SQLite
+- SQLite Products
+- Precompiled Distributions
+- Documentation Distribution
+- Source Distributions
+- Building
+- Build and Installation Options
+- A sqlite3 Primer
+- Summary
 Chapter 04 - The SQL Language
 Chapter 05 - The Select Command
 Chapter 06 - Database Design
