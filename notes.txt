@@ -89,6 +89,8 @@ Appendix A - SQLite Build Options
 - Limit Features
 - Omit Core Features
 Appendix B - sqlite3 Command Reference
+- Command-Line Options
+- Interactive Dot-Commands
 Appendix C - SQLite SQL Command Reference
 Appendix D - SQLite SQL Expression Reference
 Appendix E - SQLite SQL Function Reference
