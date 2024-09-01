@@ -105,4 +105,6 @@ Appendix E - SQLite SQL Function Reference
 - Scalar Functions
 - Aggregate Functions
 Appendix F - SQLite SQL Pragma Reference
+- SQLite PRAGMAs
 Appendix G - SQLite C API Reference
+- API Datatypes
