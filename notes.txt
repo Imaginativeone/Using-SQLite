@@ -9,6 +9,15 @@ Chapter 01 - What is SQLite?
 - Sub Compatible License
 - Sub Highly Reliable
 Chapter 02 - Uses of SQLite
+- Database Junior
+- Application Files
+- Application Cache
+- Archives and Stores
+- Client/Server Stand-In
+- Teaching Tool
+- Generic SQL Engine
+- Not the Best Choice
+- Big Name Users
 Chapter 03 - Building and Installing SQLite
 Chapter 04 - The SQL Language
 Chapter 05 - The Select Command
