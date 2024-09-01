@@ -51,6 +51,15 @@ Chapter 06 - Database Design
 - Transferring Design Experience
 - Closing
 Chapter 07 - C Programming Interface
+- API Overview
+- Library Initialization
+- Database Connections
+- Prepared Statements
+- Bound Parameters
+- Convenience Functions
+- Result Codes and Error Codes
+- Utility Functions
+- Summary
 Chapter 08 - Additional Features and APIs
 Chapter 09 - SQL Functions and Extensions
 Chapter 10 - Virtual Tables and Modules
