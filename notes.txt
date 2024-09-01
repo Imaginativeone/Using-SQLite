@@ -2,6 +2,9 @@ Chapter 01 - What is SQLite?
 - public-domain RDBMS
 - "the default build"...find out more
 - Sub Self Contained, No Server Required
+- Sub Single File Database
+- Sub Zero Configuration
+- Sub Embedded Device Support
 Chapter 02 - Uses of SQLite
 Chapter 03 - Building and Installing SQLite
 Chapter 04 - The SQL Language
